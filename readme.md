@@ -33,7 +33,11 @@ Para entender las convenciones de manera efectiva, habrá secciones que describa
 
 Las pautas utilizadas son las mismas que se utilizan en las [Pautas de diseño de Frameworks por Microsoft]() y son: 
 
-- *DO* : siga esta pauta y no se desvíe de ella
-- *DO NOT* : no siga esta pauta
-- *AVOID* : evite esta situación a toda acosta a menos que no haya otra alternativa
-- *CONSIDER* : considere esta pauta y úsela cuando sea posible, pero no es estrictamente necesaria
+- **DO** : siga esta pauta y no se desvíe de ella
+- **DO NOT** : no siga esta pauta
+- **AVOID** : evite esta situación a toda acosta a menos que no haya otra alternativa
+- **CONSIDER** : considere esta pauta y úsela cuando sea posible, pero no es estrictamente necesaria
+
+Por ejemplo:
+
+**CONSIDER** : Las convenciones y pautas de este documento son tan efectivas como su tasa de adopción por parte de los desarrolladores.
