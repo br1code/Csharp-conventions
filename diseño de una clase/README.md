@@ -108,6 +108,7 @@ namespace Br1Company.Project.Blog
         public void Comment(Comment comment)
         {
             comments.add(comment);
+            OnCommentCreated(comment);
         }
 
         private void OnCommentCreated(Comment comment)
@@ -123,7 +124,5 @@ Mantuve la clase lo suficientemente simple por ahora. Básicamente es una clase 
 
 Siguiendo esta estructura, podemos ver que la clase se puede leer fácilmente como un índice. Encontrar lo que necesita es relativamente fácil de hacer, y esto se vuelve crítico cuando se trabaja con clases muy grandes.
 
-La estructura y el diseño de una clase es un punto de partida fundamental para escribir clases de alta calidad, pero a pesar de que esta clase se ve muy simple, todavía está muy lejos de ser una clase de alta calidad. **Le faltan algunas características clave que la completan, lo que nos lleva a nuestra próxima sección**: 
-
-## [Convenciones de Nombres](../convenciones%20de%20nombres)
+La estructura y el diseño de una clase es un punto de partida fundamental para escribir clases de alta calidad, pero a pesar de que esta clase se ve muy simple, todavía está muy lejos de ser una clase de alta calidad. **Le faltan algunas características clave que la completan, lo que nos lleva a nuestra próxima sección**: [Convenciones de Nombres](../convenciones%20de%20nombres)
 
