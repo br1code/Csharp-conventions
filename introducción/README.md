@@ -4,13 +4,13 @@ El objetivo de este documento es delinear un conjunto de convenciones de program
 
 Para entender las convenciones de manera efectiva, habrá secciones que describan cada convención seguido de un conjunto de pautas.
 
-Las pautas utilizadas son las mismas que se utilizan en las [Pautas de diseño de Frameworks por Microsoft]() y son: 
+Las pautas utilizadas son las mismas que se utilizan en las [Pautas de diseño de Frameworks por Microsoft](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/) y son: 
 
 - **DO** : siga esta pauta y no se desvíe de ella
 - **DO NOT** : no siga esta pauta
 - **AVOID** : evite esta situación a toda acosta a menos que no haya otra alternativa
 - **CONSIDER** : considere esta pauta y úsela cuando sea posible, pero no es estrictamente necesaria
 
-Por ejemplo:
+### Por ejemplo:
 
 **CONSIDER** : Las convenciones y pautas de este documento son tan efectivas como su tasa de adopción por parte de los desarrolladores.
