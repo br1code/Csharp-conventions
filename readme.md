@@ -5,7 +5,7 @@ Estas convenciones están diseñadas para ayudar a los programadores C# a escrib
 Proporcionan un estándar que puede aplicar en su propia escritura de código o en un equipo de trabajo.
 
 ## Guía
-- [Introducción](/introducción/README.md)
+- [Introducción](introducción)
 - [Diseño de una clase]()
 - [Convenciones de nombres]()
     - [Namespaces]()
