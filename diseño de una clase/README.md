@@ -35,7 +35,7 @@ namespace CompanyName.Technology.Feature
 }
 ```
 
-**DO** : Usa esta estructura de clases consistentemente en todas las clases que escribas.
+**DO** : Use esta estructura de clases consistentemente en todas las clases que escribas.
 
 **DO** : Reserve la primera parte del archivo para cualquier comentario de derechos de autor o avisos informativos importantes sobre el archivo de código fuente actual.
 
@@ -57,7 +57,7 @@ namespace CompanyName.Technology.Feature
 
 **DO NOT** : Dejar el nombre de un archivo como Class1.cs, Form1.cs, o cualquier nombre no identificable.
 
-> No nombrar un archivo de código de forma apropiada dice algo acerca de su atención al detalle. Lleva muy poco tiempo nombrar un archivo que sea identificable y útil, y está ayudando a otros desarrolladores haciendo esto. Lo primero que haces al buscar en código fuente de un proyecto es ver los archivos, y tener que buscar entre docenas de archivos sin nombres significativos puede ser una pesadilla para otro desarrollador, especialmente para alguien nuevo o temporal al proyecto.
+> No nombrar un archivo de código de forma apropiada dice algo acerca de su atención al detalle. Lleva muy poco tiempo nombrar un archivo que sea identificable y útil, y está ayudando a otros desarrolladores haciendo esto. Lo primero que haces al buscar en el código fuente de un proyecto es ver los archivos, y tener que buscar entre docenas de archivos sin nombres significativos puede ser una pesadilla para otro desarrollador, especialmente para alguien nuevo o temporal en el proyecto.
 
 Ahora que establecimos una lista de lo que debe y no debe recordar, veamos un ejemplo de cómo una buena clase debería estar escrita.
 
@@ -125,5 +125,5 @@ Siguiendo esta estructura, podemos ver que la clase se puede leer fácilmente co
 
 La estructura y el diseño de una clase es un punto de partida fundamental para escribir clases de alta calidad, pero a pesar de que esta clase se ve muy simple, todavía está muy lejos de ser una clase de alta calidad. **Le faltan algunas características clave que la completan, lo que nos lleva a nuestra próxima sección**: 
 
-## [Convenciones de Nombres](.//convenciones%20de%20nombres)
+## [Convenciones de Nombres](../convenciones%20de%20nombres)
 

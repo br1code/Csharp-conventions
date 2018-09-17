@@ -6,7 +6,7 @@ Proporcionan un estándar que puede aplicar en su propia escritura de código o 
 
 ## Guía
 - [Introducción](introducción)
-- [Diseño de una clase]()
+- [Diseño de una clase](diseño%20de%20una%20clase)
 - [Convenciones de nombres]()
     - [Namespaces]()
     - [Classes]()
